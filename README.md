@@ -12,7 +12,6 @@ ML/DL을 활용해 실제 서비스를 만드는 과정에 큰 흥미를 느끼�
 ---
 
 ## 🧰 Tech Stack
-## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data--Processing-150458?logo=pandas)
 ![Numpy](https://img.shields.io/badge/NumPy-Scientific-013243?logo=numpy)
@@ -35,46 +34,47 @@ ML/DL을 활용해 실제 서비스를 만드는 과정에 큰 흥미를 느끼�
 
 ## 🚀 Featured Projects
 
-### 🔹 친환경 자동차 비교·지원 정보 서비스 (Team Project)
-**Backend & Data Processing 담당**  
-– MySQL DB 연동 / 데이터 가공 / Streamlit Front 연동  
-– 지역별 충전소/지원금 정보 제공  
-👉 Repo: https://github.com/woojaehyun/YOUR_PROJECT
-
----
-
-### 🔹 통신사 고객 이탈 예측 (Customer Churn)
-**모델링 전체 흐름 설계 · LGBM 최적화 · 팀장 역할**  
-– 전처리 방식 3종 비교  
-– Feature Importance, 모델 비교 실험  
-👉 Repo: https://github.com/woojaehyun/YOUR_PROJECT
-
 ---
 
 ### 🔹 Kaggle Titanic ML Pipeline
 Feature Engineering · 모델 비교 · EDA 중심 프로젝트  
-👉 Repo: (예정)
+👉 Repo: https://github.com/Wjaehyun/titanic
+---
+
+
+### 🔹 통신사 고객 이탈 예측 (Customer Churn)
+**모델링 전체 흐름 설계 · LGBM 최적화 · 팀장 역할**  
+– 전처리 방식 3종 비교
+– Feature Importance, 모델 비교 실험  
+👉 Repo: https://github.com/Wjaehyun/telecom_churn_predict
+
+---
+
+### 🔹 친환경 자동차 비교·지원 정보 서비스 (Team Project)
+**Backend & Data Processing 담당**  
+– MySQL DB 연동 / 데이터 가공 / Streamlit Front 연동  
+– 지역별 충전소/지원금 정보 제공  
+👉 Repo: https://github.com/Wjaehyun/h2car_helper
 
 ---
 
 ## 📚 Currently Learning
 - Deep Learning (Karpathy Zero-to-Hero)  
-- 시계열 데이터 분석  
 - Dacon Competition  
-- 머신러닝 파이프라인 구조화  
+- LLM chatbot
 
 ---
 
 ## 🏃 Bootcamp Journey  
 SKN AI Family 21기  
-– Machine Learning / Deep Learning  
 – 팀 프로젝트 2회 진행  
+– Machine Learning / Deep Learning  
 – SQL · Python · Streamlit 기반 웹서비스 경험  
 
 ---
 
 ## 📫 Contact  
-📧 Email: your_email@example.com  
+📧 Email: wjaehyun97@gmail.com
 🔗 GitHub: https://github.com/woojaehyun  
 🔗 Portfolio Website: (GitHub Pages 예정)
 
