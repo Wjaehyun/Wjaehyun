@@ -45,16 +45,16 @@ Feature Engineering · 모델 비교 · EDA 중심 프로젝트
 
 ### 🔹 통신사 고객 이탈 예측 (Customer Churn)
 **모델링 전체 흐름 설계 · LGBM 최적화 · 팀장 역할**  
-– 전처리 방식 3종 비교
-– Feature Importance, 모델 비교 실험  
+- 전처리 방식 3종 비교
+- Feature Importance, 모델 비교 실험  
 👉 Repo: https://github.com/Wjaehyun/telecom_churn_predict
 
 ---
 
 ### 🔹 친환경 자동차 비교·지원 정보 서비스 (Team Project)
 **Backend & Data Processing 담당**  
-– MySQL DB 연동 / 데이터 가공 / Streamlit Front 연동  
-– 지역별 충전소/지원금 정보 제공  
+- MySQL DB 연동 / 데이터 가공 / Streamlit Front 연동
+- 지역별 충전소/지원금 정보 제공  
 👉 Repo: https://github.com/Wjaehyun/h2car_helper
 
 ---
@@ -62,24 +62,25 @@ Feature Engineering · 모델 비교 · EDA 중심 프로젝트
 ## 📚 Currently Learning
 - Deep Learning (Karpathy Zero-to-Hero)  
 - Dacon Competition  
-- LLM chatbot
+- chatbot
 
 ---
 
 ## 🏃 Bootcamp Journey  
 SKN AI Family 21기  
-– 팀 프로젝트 2회 진행  
-– Machine Learning / Deep Learning  
-– SQL · Python · Streamlit 기반 웹서비스 경험  
+- 팀 프로젝트 2회 진행
+- Machine Learning / Deep Learning  
+- SQL · Python · Streamlit 기반 웹서비스 경험  
 
 ---
 
 ## 📫 Contact  
 📧 Email: wjaehyun97@gmail.com
-<br>
-🔗 GitHub: https://github.com/woojaehyun 
-<br>
-🔗 Portfolio Website: https://wjaehyun.github.io/
+
+🔗 GitHub: https://github.com/woojaehyun
+
+🔗 Portfolio Website: https://wjaehyun.github.io
+
 ---
 
 ⭐ _Thanks for visiting! Feel free to explore my projects!_
