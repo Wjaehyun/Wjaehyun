@@ -76,7 +76,9 @@ SKN AI Family 21기
 
 ## 📫 Contact  
 📧 Email: wjaehyun97@gmail.com
-🔗 GitHub: https://github.com/woojaehyun  
+<br>
+🔗 GitHub: https://github.com/woojaehyun 
+<br>
 🔗 Portfolio Website: (GitHub Pages 예정)
 
 ---
