@@ -79,8 +79,7 @@ SKN AI Family 21기
 <br>
 🔗 GitHub: https://github.com/woojaehyun 
 <br>
-🔗 Portfolio Website: (GitHub Pages 예정)
-
+🔗 Portfolio Website: https://wjaehyun.github.io/
 ---
 
 ⭐ _Thanks for visiting! Feel free to explore my projects!_
