@@ -9,8 +9,6 @@ ML/DL을 활용해 실제 서비스를 만드는 과정에 큰 흥미를 느끼�
 데이터 분석 → 전처리 → 모델링 → 웹 배포까지  
 엔드투엔드 프로젝트를 경험하며 성장하고 있습니다.
 
----
-
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data--Processing-150458?logo=pandas)
@@ -30,41 +28,36 @@ ML/DL을 활용해 실제 서비스를 만드는 과정에 큰 흥미를 느끼�
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)
 
 
----
-
 ## 🚀 Featured Projects
 
----
 
 ### 🔹 Kaggle Titanic ML Pipeline
-Feature Engineering · 모델 비교 · EDA 중심 프로젝트  
-👉 Repo: https://github.com/Wjaehyun/titanic
-
----
+- Feature Engineering · 모델 비교 · EDA 중심 프로젝트  
+- 2025.12.1 - 2025.12.5
+- Repo: https://github.com/Wjaehyun/titanic
 
 
 ### 🔹 통신사 고객 이탈 예측 (Customer Churn)
 **모델링 전체 흐름 설계 · LGBM 최적화 · 팀장 역할**  
 - 전처리 방식 3종 비교
 - Feature Importance, 모델 비교 실험  
-👉 Repo: https://github.com/Wjaehyun/telecom_churn_predict
+- 2025.11.18 - 2025.11.26
+- Repo: https://github.com/Wjaehyun/telecom_churn_predict
 
----
 
 ### 🔹 친환경 자동차 비교·지원 정보 서비스 (Team Project)
 **Backend & Data Processing 담당**  
 - MySQL DB 연동 / 데이터 가공 / Streamlit Front 연동
 - 지역별 충전소/지원금 정보 제공  
-👉 Repo: https://github.com/Wjaehyun/h2car_helper
+- 2025.10.24 - 2025.10.25
+- Repo: https://github.com/Wjaehyun/h2car_helper
 
----
 
 ## 📚 Currently Learning
 - Deep Learning (Karpathy Zero-to-Hero)  
 - Dacon Competition  
 - chatbot
 
----
 
 ## 🏃 Bootcamp Journey  
 SKN AI Family 21기  
