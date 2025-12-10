@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Woo Jaehyun  
+# 👋 Hi, I'm Jaehyun Woo
 AI Developer / Machine Learning Engineer in Training
 
 안녕하세요!  
