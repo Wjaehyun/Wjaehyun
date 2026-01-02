@@ -31,7 +31,7 @@ ML/DL을 활용해 실제 서비스를 만드는 과정에 큰 흥미를 느끼�
 ## 🚀 Featured Projects
 
 
-### 🔹 Kaggle Titanic ML Pipeline
+### 🔹 Kaggle Titanic ML Practice
 - Feature Engineering · 모델 비교 · EDA 중심 프로젝트  
 - 2025.12.1 - 2025.12.5
 - Repo: https://github.com/Wjaehyun/titanic
