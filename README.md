@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Jaehyun Woo
-AI Developer / Machine Learning Engineer in Training
+Data engineer / AI Developer in Training
 
 안녕하세요!  
 저는 데이터 기반 문제 해결을 좋아하고,  
 ML/DL을 활용해 실제 서비스를 만드는 과정에 큰 흥미를 느끼는 개발자 **우재현**입니다.
 
 현재 SKN AI Family 21기에서  
-데이터 분석 → 전처리 → 모델링 → 웹 배포까지  
+Data Foundation → Analysis & AI Integration → Service까지  
 엔드투엔드 프로젝트를 경험하며 성장하고 있습니다.
 
 ## 🧰 Tech Stack
